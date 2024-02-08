@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <target:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:target="http://fiorano.com/environment/1.0" xsi:schemaLocation="http://fiorano.com/environment/1.0 env.xsd">
   <target:instance name="Feeder1">
@@ -12,3 +13,6 @@
     </target:instance-properties>
   </target:instance>
 </target:target>
+=======
+<?xml version='1.0' encoding='UTF-8'?><target:target xmlns:target="http://fiorano.com/environment/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fiorano.com/environment/1.0 env.xsd"><target:instance name="Feeder1"><target:instance-properties><target:deployment nodes="fps" cache="true" /></target:instance-properties><target:configuration-properties /></target:instance></target:target>
+>>>>>>> branch 'master' of https://gitlab.com/fiorano1/test4

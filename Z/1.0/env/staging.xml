@@ -5,9 +5,12 @@
       <target:deployment cache="true" nodes="fps"/>
     </target:instance-properties>
   </target:instance>
+<<<<<<< HEAD
   <target:instance name="chat1">
     <target:instance-properties>
       <target:deployment cache="true" nodes="fps"/>
     </target:instance-properties>
   </target:instance>
+=======
+>>>>>>> branch 'master' of https://gitlab.com/fiorano1/test4
 </target:target>
