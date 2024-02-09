@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="ASCII"?>
 <layout>
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+<<<<<<< HEAD
     <service-instance name="Feeder1" x="108" y="192"/>
+=======
+    <service-instance name="Feeder1" x="115" y="129"/>
+>>>>>>> branch 'master' of https://github.com/shubhifiorano/test3
     <service-instance name="Display1" x="564" y="162"/>
   </subflow>
   <shortcut-routes/>
